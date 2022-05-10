@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dice Roll</string>
+    <string name="roll">roll</string>
+    <string name="you_rolled_the_lucky_number">You rolled the lucky number!</string>
+</resources>
